@@ -5,13 +5,14 @@
 [![GitHub stars](https://img.shields.io/github/stars/username/DevInterviewPrompts.svg?style=social&label=Star)](https://github.com/QFifteen/AI-Interview-Prompts) 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-**为 AI 模拟面试提供 Prompts 词库，面向中文程序员**
+**一个精心整理的面试相关 Prompts 集合，面向中文程序员**
 
 </div>
 
 ## 📖 项目概述
-AI-Interview-Prompts 是面向中文程序员的AI面试提示词库，通过精心打造的专业Prompt，帮助开发者利用ChatGPT、Claude等大语言模型进行高质量的面试模拟训练，提升面试成功率。
-
+AI-Interview-Prompts 是面向中文程序员的 Prompt 库，助力程序员利用 AI 大模型进行高质量面试准备，主要包含内容：
+- AI 模拟面试
+- 面试题应答话术
 
 ## 📚 提示词库
 
